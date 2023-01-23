@@ -3,7 +3,6 @@ I've been working with web since mid 2010 and currently I'm producing content fo
 
 Would you like to find me?
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/obgallo?label=Follow)](https://twitter.com/obgallo)
 [![Linkedin: thedaviddias](https://img.shields.io/badge/-Bruno%20Gallo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/obgallo/)](https://www.linkedin.com/in/obgallo/)
 
 
