@@ -1,5 +1,5 @@
 # Hi there, I'm Bruno Gallo
-I've been working with web since mid 2009 and currently I'm producing content for front-end and exploring blockchain. 
+I've been working with web since mid 2009 and currently working as full stack dev and exploring blockchain.
 
 Would you like to find me?
 
