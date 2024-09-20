@@ -20,6 +20,8 @@
   <br>
   <br>
   Would you like to find me?
+  <br>
+  <br>
   <a href="https://t.me/oxgallo">
     <img src="https://img.shields.io/badge/-Channel-1a1b27?style=for-the-badge&logo=telegram" alt="Telegram channel">
   </a>
