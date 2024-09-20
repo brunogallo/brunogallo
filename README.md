@@ -1,5 +1,4 @@
-<div align="center">
-  <div align="center">
+ <div align="center">
     <picture>
       <source
         media="(prefers-color-scheme: dark)"
@@ -14,12 +13,11 @@
         src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
       />
   </picture>
-  </div>
+</div>
   <a href="https://t.me/oxgallo">
     <img src="https://img.shields.io/badge/-Channel-1a1b27?style=for-the-badge&logo=telegram" alt="Telegram channel">
   </a>
   <br>
-</div>
   <h3># Hi there, I'm Bruno Gallo</h3>
   <br>
   I've been working with web since mid 2009 and currently working as Software engineer / Frontend specialist and exploring blockchain.
