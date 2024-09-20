@@ -14,15 +14,14 @@
       />
   </picture>
 </div>
+  <br>
+  <h3># Hi there, I'm Bruno Gallo</h3>
+  I've been working with web since mid 2009 and currently working as Software engineer / Frontend specialist and exploring blockchain.
+  <br>
+  <br>
+  Would you like to find me?
   <a href="https://t.me/oxgallo">
     <img src="https://img.shields.io/badge/-Channel-1a1b27?style=for-the-badge&logo=telegram" alt="Telegram channel">
   </a>
-  <br>
-  <h3># Hi there, I'm Bruno Gallo</h3>
-  <br>
-  I've been working with web since mid 2009 and currently working as Software engineer / Frontend specialist and exploring blockchain.
-  <br>
-  Would you like to find me?
-  <br>
 
 
